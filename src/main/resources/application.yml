@@ -1,0 +1,5 @@
+secret:
+  key: mailworld
+
+server:
+  port: 38080
